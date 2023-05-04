@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import { TbBeach, TbMountain, TbPool } from 'react-icons/tb';
 import { GiBarn, GiBoatFishing, GiCactus, GiCastle, GiCaveEntrance, GiForestCamp, GiIsland, GiWindmill } from 'react-icons/gi';
